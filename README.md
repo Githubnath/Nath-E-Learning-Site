@@ -1,8 +1,8 @@
-## DAN-TUTOR E-LEARNING PLATFORM <br/> 
+## NATH-E-LEARNING SITE <br/> 
 
 <img src="https://avatars.githubusercontent.com/u/111175741?s=200&v=4"/> <br/>
 
-Welcome to DAN-TUTOR E-Learning Platform, a comprehensive online education solution that aims to provide a seamless and engaging learning experience for students and instructors alike. This README will guide you through the setup, features, and usage of the platform. <br/>
+Welcome to NATH-E-Learning Platform, a comprehensive online education solution that aims to provide a seamless and engaging learning experience for students and instructors. This README will walk you through the setup, features, and usage of the platform. <br/>
 
 ## Table of Contents <br/>
 
@@ -72,4 +72,4 @@ iii. Monitor your progress and marks in the course.<br/>
 <br/>
 
 ## 8. License<br/>
-This project is licensed under the Daniel-Tutor Services License.<br/>
+This project is licensed under the Emenike Nathaniel License.<br/>
