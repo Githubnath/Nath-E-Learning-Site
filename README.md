@@ -6,13 +6,6 @@ Welcome to NATH-E-Learning Platform, a comprehensive online education solution t
 
 ## Table of Contents <br/>
 
-1. Getting Started<br/>
-2. Student Features<br/>
-3. Instructor Features<br/>
-4. User Roles<br/>
-5. Logging In<br/>
-6. Enrolling in Courses<br/>
-7. Managing Courses<br/>
 
 1. [Getting Started](##Getting-Started)
 2. [Student Feature](##Student-Features)
@@ -21,7 +14,6 @@ Welcome to NATH-E-Learning Platform, a comprehensive online education solution t
 5. [Logging In](##logging-in)
 6. [Enrolling in Courses](##Enrolling-in-Courses)
 7. [Managing Courses](##Managing-Courses)
-
 
 
 
