@@ -6,14 +6,14 @@ Welcome to NATH-E-Learning Platform, a comprehensive online education solution t
 
 ## Table of Contents <br/>
 
-1. ## Getting Started<br/>
-2 .## Student Features<br/>
-3. ## Instructor Features<br/>
-4. ## User Roles<br/>
-5. ## Logging In<br/>
-6. ## Enrolling in Courses<br/>
-7. ## Managing Courses<br/>
-8. ## License<br/>
+1. Getting Started<br/>
+2. Student Features<br/>
+3. Instructor Features<br/>
+4. User Roles<br/>
+5. Logging In<br/>
+6. Enrolling in Courses<br/>
+7. Managing Courses<br/>
+8. License<br/>
 
 
 ## 1. Getting Started<br/>
