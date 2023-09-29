@@ -81,7 +81,7 @@ iii. Monitor your progress and marks in the course.<br/>
 
 
 
-[Click me to see the app!](https://fit.emenikenath.c.ng)
+[Click me to see the site!](https://fit.emenikenath.c.ng)
 
 
 #### Preview
