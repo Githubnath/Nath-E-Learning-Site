@@ -6,14 +6,14 @@ Welcome to NATH-E-Learning Platform, a comprehensive online education solution t
 
 ## Table of Contents <br/>
 
-1. Getting Started<br/>
-2. Student Features<br/>
-3. Instructor Features<br/>
-4. User Roles<br/>
-5. Logging In<br/>
-6. Enrolling in Courses<br/>
-7. Managing Courses<br/>
-8. License<br/>
+1. ## Getting Started<br/>
+2 .## Student Features<br/>
+3. ## Instructor Features<br/>
+4. ## User Roles<br/>
+5. ## Logging In<br/>
+6. ## Enrolling in Courses<br/>
+7. ## Managing Courses<br/>
+8. ## License<br/>
 
 
 ## 1. Getting Started<br/>
@@ -43,7 +43,7 @@ Instructor: Users who create, manage, and teach courses.<br/>
 <br/>
 
 ## 5. Logging In<br/>
-i. Open your web browser and navigate to the platform's URL (https://dantutor.onrender.com).<br/>
+i. Open your web browser and navigate to the platform's URL (https://.onrender.com).<br/>
 ii. Click on the "Login" button.<br/>
 iii. Enter your username and password.<br/>
 iv. Select the appropriate role (Student or Instructor) from the dropdown.<br/>
