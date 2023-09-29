@@ -14,6 +14,16 @@ Welcome to NATH-E-Learning Platform, a comprehensive online education solution t
 6. Enrolling in Courses<br/>
 7. Managing Courses<br/>
 
+1. [Getting Started](#Getting Started)
+2. Student Feature](#Student Features)
+3. Instructor Features](#instructor Features)
+4. User Roles](#user Roles)
+5. [Logging In](#logging in)
+6. [Enrolling in Courses](# Enrolling in Courses)
+7. [Managing Courses](#Managing Courses)
+
+
+
 
 ## 1. Getting Started<br/>
 Prerequisites<br/>
@@ -57,14 +67,14 @@ iii. Click the "Enroll" button to enroll in the course.<br/>
 
 ## 7. Managing Courses<br/>
 <br/>
-#Instructor View <br/>
+# Instructor View <br/>
 i. After logging in as an instructor, you'll see a dashboard with options to create and manage courses.<br/>
 ii. Click the "Create Course" button and fill in the course details.<br/>
 iii. Upload course materials, add quizzes, and create assignments.<br/>
 iv. Manage enrolled students, grade assignments, and interact through discussions.<br/>
 <br/>
 
-#Student View <br/>
+#  Student View <br/>
 i. Once logged in as a student, you'll see a dashboard displaying your enrolled courses.<br/>
 ii. Click on a course to access its materials, lectures, quizzes, and assignments.<br/>
 iii. Monitor your progress and marks in the course.<br/>
@@ -87,25 +97,18 @@ iii. Monitor your progress and marks in the course.<br/>
 - Home Page <br>
   ![Screenshot](./client/src/assets/screenshots/1.png)
 
-- Home Page <br>
+-   Page2 <br>
   ![Screenshot](./client/src/assets/screenshots/1.png)
 
 - Login Page <br>
   ![Screenshot](./client/src/assets/screenshots/2.png)
 
-- Exercise Page <br>
+-  study Page <br>
   ![Screenshot](./client/src/assets/screenshots/3.png)
 
-- Add Cardio <br>
+-   page5 <br>
   ![Screenshot](./client/src/assets/screenshots/4.png)
 
-- Add Resistance <br>
-  ![Screenshot](./client/src/assets/screenshots/5.png)
-
-- History Page <br>
-  ![Screenshot](./client/src/assets/screenshots/png6.png)
-- Single Cardio History <br>
-  ![Screenshot](./client/src/assets/screenshots/png7.png)
 
 ## License
 
