@@ -14,13 +14,13 @@ Welcome to NATH-E-Learning Platform, a comprehensive online education solution t
 6. Enrolling in Courses<br/>
 7. Managing Courses<br/>
 
-1. [Getting Started](#Getting Started)
-2. Student Feature](#Student Features)
-3. Instructor Features](#instructor Features)
-4. User Roles](#user Roles)
-5. [Logging In](#logging in)
-6. [Enrolling in Courses](# Enrolling in Courses)
-7. [Managing Courses](#Managing Courses)
+1. [Getting Started](# Getting-Started)
+2. [Student Feature](# Student-Features)
+3. [Instructor Features](# instructor-Features)
+4. [User Roles](# user-Roles)
+5. [Logging In](# logging-in)
+6. [Enrolling in Courses](# Enrolling-in-Courses)
+7. [Managing Courses](# Managing-Courses)
 
 
 
