@@ -1,6 +1,6 @@
 ## NATH-E-LEARNING SITE On-going project <br/> 
 
-<img src="https://avatars.githubusercontent.com/u/111175741?s=200&v="/> <br/>
+<img src="https://github.com/Githubnath/Nath-E-Learning-Site/blob/main/p/jpg.jpg"/> <br/>
 
 Welcome to NATH-E-Learning Platform, a comprehensive online education solution that aims to provide a seamless and engaging learning experience for students and instructors. This README will walk you through the setup, features, and usage of the platform. <br/>
 
